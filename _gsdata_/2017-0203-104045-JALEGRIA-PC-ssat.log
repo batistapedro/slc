@@ -1,0 +1,19 @@
+2017-02-03 10:40:48: ----- Tarea 'ssat': ANÁLISIS comenzado por User en ordenador 'JALEGRIA-PC' (GoodSync v 9.4.2.2) -----
+2017-02-03 10:40:48: D:\xampp\htdocs\ssat <-> sftp://192.168.90.17/var/www/html/ssat
+2017-02-03 10:40:48: izquierda: Archivos: 655 (excluidos 0). Carpetas: 85 (excluidas 1). D: NTFS, Libre: 39,5 GB, Total: 146 GB
+2017-02-03 10:40:49: derecha: Archivos: 655 (excluidos 0). Carpetas: 85 (excluidas 1). SSH-2.0-OpenSSH_5.3
+2017-02-03 10:40:49: Cambios: 4, Conflictos: 0, TiempoCopia: 0, EstadoCopia: 0/0, Errores: 0
+2017-02-03 10:40:49: Left to Right: Copy File: 4 
+2017-02-03 10:40:49: ----- Análisis Completado. Tiempo 00:00:04, Velocidad: 185 archivo/s -----
+2017-02-03 10:40:49: 
+2017-02-03 10:40:52: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /application/config/config.php
+2017-02-03 10:40:52: Done.
+2017-02-03 10:41:06: ===== Tarea 'ssat': SINC comenzada por User en ordenador 'JALEGRIA-PC' =====
+2017-02-03 10:41:06: D:\xampp\htdocs\ssat <-> sftp://192.168.90.17/var/www/html/ssat
+2017-02-03 10:41:06: Copiar Sobre 'D:\xampp\htdocs\ssat\application\controllers\administrador\Administrador.php' -> 'sftp://192.168.90.17/var/www/html/ssat/application/controllers/administrador/Administrador.php'
+2017-02-03 10:41:06: Copiar Sobre 'D:\xampp\htdocs\ssat\application\models\Administrador_model.php' -> 'sftp://192.168.90.17/var/www/html/ssat/application/models/Administrador_model.php'
+2017-02-03 10:41:06: Copiar Sobre 'D:\xampp\htdocs\ssat\application\views\administrador\ver_encuesta_usuario.php' -> 'sftp://192.168.90.17/var/www/html/ssat/application/views/administrador/ver_encuesta_usuario.php'
+2017-02-03 10:41:06: Guardar archivo de estado sftp://192.168.90.17/var/www/html/ssat/_gsdata_/_file_state_v4._gs
+2017-02-03 10:41:06: Elementos Sincronizados OK: 3, Errores: 0
+2017-02-03 10:41:06: ===== Sinc. Completa. Tiempo: 00:00:03, Velocidad: 15,5 KB/s (136 KB/s) =====
+2017-02-03 10:41:06: 
